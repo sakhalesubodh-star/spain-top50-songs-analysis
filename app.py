@@ -521,7 +521,7 @@ from pathlib import Path
 CHURN_FILE = (
     Path(__file__).resolve().parent.parent
     /"Spain_Top50_Analysis"
-    / "data"
+    / "Data"
     / "processed"
     / "daily_churn.csv"
 )
